@@ -1,5 +1,5 @@
 <template>
-  <a-button>index</a-button>
+  <a-button>home</a-button>
 </template>
 
 <script>
